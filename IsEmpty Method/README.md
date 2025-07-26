@@ -37,4 +37,4 @@ java StringIsEmptyExample
 ---
 
 #### Made with ☕ Java and 💡 curiosity!  
-##👨‍💻 Author : Ikramullah Jamali
+## 👨‍💻 Author : Ikramullah Jamali
